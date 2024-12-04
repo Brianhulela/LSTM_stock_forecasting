@@ -4,4 +4,3 @@ matplotlib
 scikit-learn
 tensorflow
 yfinance
-seaborn
