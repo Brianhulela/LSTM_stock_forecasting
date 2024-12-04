@@ -1,7 +1,5 @@
 # Stock Market Forecasting with LSTM and Python
 
-Welcome to the repository for Stock Market Forecasting using Long Short-Term Memory (LSTM) networks in Python. This project demonstrates how to use LSTM to predict stock prices, leveraging historical stock data and powerful machine learning techniques.
-
 ![Cover Image](https://github.com/Brianhulela/LSTM_stock_forecasting/blob/master/TSLA_forecast.png)
 
 ## Overview
